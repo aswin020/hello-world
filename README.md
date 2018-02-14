@@ -1,2 +1,1 @@
-# hello-world
-sample
+This is the readme file
